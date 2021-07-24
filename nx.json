@@ -29,6 +29,13 @@
   "projects": {
     "api": {
       "tags": []
+    },
+    "aquaario": {
+      "tags": []
+    },
+    "aquaario-e2e": {
+      "tags": [],
+      "implicitDependencies": ["aquaario"]
     }
   }
 }
