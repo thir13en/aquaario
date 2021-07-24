@@ -1,0 +1,16 @@
+{
+  "name": "aquaario-api",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nestjs/common": "~7.6.18",
+    "@nestjs/core": "~7.6.18",
+    "@nestjs/platform-express": "~7.6.18",
+    "core-js": "~3.15.2",
+    "reflect-metadata": "~0.1.13",
+    "regenerator-runtime": "0.13.7",
+    "rxjs": "~6.6.3",
+    "tslib": "~2.3.0"
+  }
+}
